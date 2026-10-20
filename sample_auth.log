@@ -1,0 +1,23 @@
+Oct 18 02:10:10 server sshd[9916]: Failed password for invalid user test from 45.33.12.8 port 49419 ssh2
+Oct 18 02:11:11 server sshd[8766]: Failed password for invalid user test from 45.33.12.8 port 42122 ssh2
+Oct 18 02:12:12 server sshd[1215]: Failed password for invalid user admin from 45.33.12.8 port 49844 ssh2
+Oct 18 02:13:13 server sshd[4839]: Failed password for invalid user pi from 45.33.12.8 port 38498 ssh2
+Oct 18 02:14:14 server sshd[8704]: Failed password for invalid user test from 45.33.12.8 port 53499 ssh2
+Oct 18 02:15:15 server sshd[3467]: Failed password for invalid user pi from 45.33.12.8 port 43013 ssh2
+Oct 18 02:16:16 server sshd[3484]: Failed password for invalid user test from 45.33.12.8 port 50803 ssh2
+Oct 18 02:17:17 server sshd[1248]: Failed password for invalid user pi from 45.33.12.8 port 54289 ssh2
+Oct 18 02:18:18 server sshd[1701]: Failed password for invalid user admin from 45.33.12.8 port 35223 ssh2
+Oct 18 02:19:19 server sshd[1508]: Failed password for invalid user oracle from 45.33.12.8 port 55561 ssh2
+Oct 18 02:10:20 server sshd[7350]: Failed password for invalid user oracle from 45.33.12.8 port 45491 ssh2
+Oct 18 02:11:21 server sshd[8284]: Failed password for invalid user pi from 45.33.12.8 port 42942 ssh2
+Oct 18 03:20:05 server sshd[6988]: Failed password for root from 103.77.21.4 port 34395 ssh2
+Oct 18 03:21:05 server sshd[1587]: Failed password for root from 103.77.21.4 port 33193 ssh2
+Oct 18 03:22:05 server sshd[9108]: Failed password for root from 103.77.21.4 port 34455 ssh2
+Oct 18 03:23:05 server sshd[5226]: Failed password for root from 103.77.21.4 port 37110 ssh2
+Oct 18 03:24:05 server sshd[8146]: Failed password for root from 103.77.21.4 port 52021 ssh2
+Oct 18 03:25:05 server sshd[5932]: Failed password for root from 103.77.21.4 port 55525 ssh2
+Oct 18 03:26:05 server sshd[9310]: Failed password for root from 103.77.21.4 port 43800 ssh2
+Oct 18 03:29:40 server sshd[7322]: Accepted password for root from 103.77.21.4 port 51234 ssh2
+Oct 18 09:05:12 server sshd[6749]: Failed password for khalid from 192.168.1.15 port 50122 ssh2
+Oct 18 09:05:20 server sshd[9750]: Accepted publickey for khalid from 192.168.1.15 port 50124 ssh2
+Oct 18 14:40:01 server sshd[7677]: Accepted publickey for khalid from 192.168.1.15 port 50200 ssh2
